@@ -3,7 +3,7 @@
   "version": "4.0.0-wip",
   "devDependencies": {
     "grunt": "~0.4.0",
-    "grunt-contrib-watch": "~0.1.0",
+    "grunt-contrib-watch": "~1.1.0",
     "grunt-contrib-qunit": "~0.1.1"
   },
   "licenses": [
